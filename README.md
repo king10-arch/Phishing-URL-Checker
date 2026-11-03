@@ -3,6 +3,6 @@ A python tool that analyses URLS and assigns a phishing risk score based on susp
 HTTPS detection
 Suspicious keyword checking
 Domain analysis
-Risk scoring
+Risk scoring  
 Lookalike detection
 Built with python
